@@ -12,9 +12,6 @@ Manage Lightroom XMP preset clusters with a simple graphical interface.
 1. Ensure you have **Python 3** installed on your system.
 2. Clone this repository or download the script.
 
-```bash
-pip install tk
-```
 
 ## Usage
 1. Run the application:

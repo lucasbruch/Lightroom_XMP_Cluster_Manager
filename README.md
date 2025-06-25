@@ -8,9 +8,13 @@ Manage Lightroom XMP preset clusters with a simple graphical interface.
 - Set a new cluster name for presets missing one.
 - Multi‑language interface (German, English, Spanish).
 
+![Screenshot 2025-06-25 132620](https://github.com/user-attachments/assets/d5169896-1513-4c32-9b87-abc3b1f39b43)
+
+![Screenshot 2025-06-25 132549](https://github.com/user-attachments/assets/c5ecc114-7c3f-4f70-92f7-f8e722aa7c7f)
+
 ## Installation
 1. Ensure you have **Python 3** installed on your system.
-2. Clone this repository or download the script.
+2. Clone this repository or download the script. 
 
 
 ## Usage

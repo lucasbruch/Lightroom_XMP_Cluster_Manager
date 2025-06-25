@@ -12,7 +12,7 @@ Manage Lightroom XMP preset clusters with a simple graphical interface.
 
 ## Installation
 1. Ensure you have **Python 3** installed on your system.
-2. Clone this repository or download the script. 
+2. Clone this repository or download the script.
 
 
 ## Usage
@@ -25,6 +25,9 @@ Manage Lightroom XMP preset clusters with a simple graphical interface.
 4. Review the list of detected clusters along with empty and missing entries.
 5. Use **Set Empty/Missing Clusters** to assign a new cluster name where none exists.
 6. Select an existing cluster from the list and choose **Rename Existing Cluster** to change it across all files.
+
+## Video Tutorial
+https://youtu.be/6EUO0NK3qjs
 
 ## Languages
 Use the drop‑down at the top right of the window to switch between German (`de`), English (`en`), and Spanish (`es`).
